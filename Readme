@@ -1,0 +1,4 @@
+### Kubernetes self management node
+A sample node server api connnect AWS Ec2 to your kubernetes helper
+
+Start EC2 with (user script) => Auto Connect this node to your Kubernetes Cluster
